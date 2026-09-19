@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'BodegasCOL | Trabaja desde casa',
+  title: 'Empaques al Día MX',
   description: 'Genera ingresos desde la comodidad de tu hogar empacando y organizando productos. Salario semanal de 500 mil pesos.',
   generator: 'v0.app',
   icons: {
